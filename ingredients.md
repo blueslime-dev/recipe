@@ -1,4 +1,4 @@
 Ingredients:
 
-- chicken noodle soup pouch
-- water
+- Chicken noodle soup pouch
+- Water
