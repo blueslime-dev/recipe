@@ -6,6 +6,8 @@
 - **item 2**
 - *item 3*
 
+![recipe](recipe.png "Chicken Noodle Soup Directions")
+
 ### This is a LOCAL change :)
 # Chicken Noodle Soup Recipe
 line 2 changed remotely
